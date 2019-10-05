@@ -21,4 +21,4 @@ if (money > limit) {
     console.log('叫乾爹');
 } else {
     console.log("叫乾媽");
-}ㄑ
+}
